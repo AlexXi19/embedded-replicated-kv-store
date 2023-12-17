@@ -1,3 +1,3 @@
 # Embedded Replicated KV Store
 
-https://notes.alexxi.dev/Thoughts/Weekend-Projects/Embedded-Replicated-Key-Value-Store-(WIP)
+https://notes.alexxi.dev/Weekend-Projects/Embedded-Replicated-Key-Value-Store-(WIP)
